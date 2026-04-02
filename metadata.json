@@ -1,0 +1,5 @@
+{
+  "name": "FactPulse - AI Crowd-Sourced Verifier",
+  "description": "A high-performance platform to detect fake news and verify social media posts using Gemini 3 and Google Search grounding.",
+  "requestFramePermissions": []
+}
